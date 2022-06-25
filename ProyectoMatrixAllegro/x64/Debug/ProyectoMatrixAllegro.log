@@ -1,0 +1,35 @@
+﻿  ProyectoMatrixAllegro.cpp
+D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\ProyectoMatrixAllegro.cpp(114,20): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\ProyectoMatrixAllegro.cpp(347,25): warning C4101: 'estadoTeclado': variable local sin referencia
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_map_rgb sin resolver al que se hace referencia en la función "void __cdecl dibujar(struct Hilera * &)" (?dibujar@@YAXAEAPEAUHilera@@@Z)
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_map_rgba sin resolver al que se hace referencia en la función "void __cdecl dibujar(struct Hilera * &)" (?dibujar@@YAXAEAPEAUHilera@@@Z)
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_create_event_queue sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_destroy_event_queue sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_register_event_source sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_wait_for_event sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_set_new_display_flags sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_create_display sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_destroy_display sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_flip_display sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_set_window_position sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_set_window_title sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_clear_to_color sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_install_system sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_create_timer sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_destroy_timer sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_start_timer sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_get_timer_event_source sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_load_font sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_draw_text sin resolver al que se hace referencia en la función "void __cdecl dibujar(struct Hilera * &)" (?dibujar@@YAXAEAPEAUHilera@@@Z)
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_destroy_font sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_init_font_addon sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_init_ttf_addon sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_init_image_addon sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_destroy_sample sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_install_audio sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_reserve_samples sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_play_sample sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_load_sample sin resolver al que se hace referencia en la función main
+ProyectoMatrixAllegro.obj : error LNK2019: símbolo externo __imp_al_init_acodec_addon sin resolver al que se hace referencia en la función main
+D:\Proyectos C++\allegro\allegro-5.0.10-msvc-11.0\lib\allegro-5.0.10-monolith-md.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\x64\Debug\ProyectoMatrixAllegro.exe : fatal error LNK1120: 30 externos sin resolver

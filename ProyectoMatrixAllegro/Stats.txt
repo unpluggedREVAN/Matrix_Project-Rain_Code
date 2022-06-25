@@ -1,0 +1,80 @@
+La ejecucion ha tardado : 19 segundos
+
+Cantidad de pistas: 36
+
+Cantidad total de letras generadas: 5634
+
+Cantidad total de agrupaciones generadas: 181
+
+Pista 1 = Cantidad de agrupaciones: 4
+
+Pista 2 = Cantidad de agrupaciones: 5
+
+Pista 3 = Cantidad de agrupaciones: 5
+
+Pista 4 = Cantidad de agrupaciones: 5
+
+Pista 5 = Cantidad de agrupaciones: 5
+
+Pista 6 = Cantidad de agrupaciones: 5
+
+Pista 7 = Cantidad de agrupaciones: 5
+
+Pista 8 = Cantidad de agrupaciones: 5
+
+Pista 9 = Cantidad de agrupaciones: 5
+
+Pista 10 = Cantidad de agrupaciones: 5
+
+Pista 11 = Cantidad de agrupaciones: 5
+
+Pista 12 = Cantidad de agrupaciones: 5
+
+Pista 13 = Cantidad de agrupaciones: 5
+
+Pista 14 = Cantidad de agrupaciones: 5
+
+Pista 15 = Cantidad de agrupaciones: 5
+
+Pista 16 = Cantidad de agrupaciones: 5
+
+Pista 17 = Cantidad de agrupaciones: 5
+
+Pista 18 = Cantidad de agrupaciones: 5
+
+Pista 19 = Cantidad de agrupaciones: 6
+
+Pista 20 = Cantidad de agrupaciones: 5
+
+Pista 21 = Cantidad de agrupaciones: 5
+
+Pista 22 = Cantidad de agrupaciones: 5
+
+Pista 23 = Cantidad de agrupaciones: 5
+
+Pista 24 = Cantidad de agrupaciones: 5
+
+Pista 25 = Cantidad de agrupaciones: 5
+
+Pista 26 = Cantidad de agrupaciones: 5
+
+Pista 27 = Cantidad de agrupaciones: 6
+
+Pista 28 = Cantidad de agrupaciones: 5
+
+Pista 29 = Cantidad de agrupaciones: 5
+
+Pista 30 = Cantidad de agrupaciones: 5
+
+Pista 31 = Cantidad de agrupaciones: 5
+
+Pista 32 = Cantidad de agrupaciones: 5
+
+Pista 33 = Cantidad de agrupaciones: 5
+
+Pista 34 = Cantidad de agrupaciones: 5
+
+Pista 35 = Cantidad de agrupaciones: 5
+
+Pista 36 = Cantidad de agrupaciones: 5
+

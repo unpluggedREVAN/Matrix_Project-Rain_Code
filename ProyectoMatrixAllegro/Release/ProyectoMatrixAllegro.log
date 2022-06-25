@@ -1,0 +1,8 @@
+﻿  ProyectoMatrixAllegro.cpp
+D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\ProyectoMatrixAllegro.cpp(136,20): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\ProyectoMatrixAllegro.cpp(317,25): warning C4101: 'estadoTeclado': variable local sin referencia
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 164 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  ProyectoMatrixAllegro.vcxproj -> D:\Proyectos C++\Proyecto 1 ED Matrix Allegro\Enviar code\ProyectoMatrixAllegro\Release\ProyectoMatrixAllegro.exe
